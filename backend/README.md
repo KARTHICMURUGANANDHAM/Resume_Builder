@@ -52,11 +52,3 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 6. Open a pull request.
 
 
-
-## Contact
-
-If you have any questions or feedback, please feel free to reach out.
-
-- **Email:** vishalbharathonly@gmail.com
-- **GitHub:** [vishalbharath](https://github.com/vishalbharath)
-
